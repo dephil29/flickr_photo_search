@@ -127,6 +127,10 @@ footer a{
   .photo-container {
     width: 420px;
   }
+
+  .photo-container-full {
+    width: 100%;
+  }
 }
 
 @media(max-width: 800px) {
