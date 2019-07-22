@@ -124,7 +124,7 @@ footer a{
 }
 
 @media(min-width: 2237px) {
-  .photo {
+  .photo-container {
     width: 420px;
   }
 }
